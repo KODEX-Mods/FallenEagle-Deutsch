@@ -1,19 +1,19 @@
 ﻿l_german:
 
-game_concept_heritage_family:0 "Heritage Family"
-game_concept_heritage_families:0 "Heritage Families"
-game_concept_heritage_family_desc:0 "Heritage Families are groupings of related [heritages|E]. A shared heritage family increases [cultural_acceptance|E] baseline."
+game_concept_heritage_family:0 "Kulturfamilie"
+game_concept_heritage_families:0 "Kulturfamilien"
+game_concept_heritage_family_desc:0 "Kulturfamilien sind Gruppierungen von verwandten [heritages|E]. Eine gemeinsame Kulturfamilie erhöht die [cultural_acceptance|E]-Grundlage."
 
-game_concept_heritage_group:0 "Heritage Group"
-game_concept_heritage_groups:0 "Heritage Groups"
-game_concept_heritage_group_desc:0 "Heritage Groups are groupings of related [heritages|E]. A shared heritage group increases [cultural_acceptance|E] baseline."
+game_concept_heritage_group:0 "Kulturgruppe"
+game_concept_heritage_groups:0 "Kulturgruppen"
+game_concept_heritage_group_desc:0 "Kulturgruppen sind Gruppierungen von verwandten [heritages|E]. Eine gemeinsame Kulturgruppe erhöht die [cultural_acceptance|E]-Grundlage."
 
-game_concept_language_group:0 "Language Group"
-game_concept_language_groups:0 "Language Groups"
-game_concept_language_group_desc:0 "Language Groups are groupings of related [languages|E]. A shared language group increases [cultural_acceptance|E] baseline, and it is easier to learn a language in the same group as your [culture|E]'s."
+game_concept_language_group:0 "Sprachgruppe"
+game_concept_language_groups:0 "Sprachgruppen"
+game_concept_language_group_desc:0 "Sprachgruppen sind Gruppierungen von verwandten [languages|E]. Eine gemeinsame Sprachgruppe erhöht die [cultural_acceptance|E]-Grundlage, und es ist einfacher, eine Sprache zu lernen, die zur gleichen Gruppe gehört wie die eigene [culture|E]."
 
-game_concept_language_family:0 "Language Family"
-game_concept_language_families:0 "Language Families"
-game_concept_language_family_desc:0 "Language Families are groupings of related [language_groups|E]. A shared language family increases [cultural_acceptance|E] baseline, and it is easier to learn a language in the same family as your [culture|E]'s."
+game_concept_language_family:0 "Sprachfamilie"
+game_concept_language_families:0 "Sprachfamilien"
+game_concept_language_family_desc:0 "Sprachfamilien sind Gruppierungen von verwandten [language_groups|E]. Eine gemeinsame Sprachfamilie erhöht die [kulturelle_Akzeptanz|E]-Grundlage, und es ist einfacher, eine Sprache zu lernen, die zur gleichen Familie gehört wie die eigene [culture|E]."
 
-game_concept_heritages:0 "Heritages"
+game_concept_heritages:0 "Herkunft"
