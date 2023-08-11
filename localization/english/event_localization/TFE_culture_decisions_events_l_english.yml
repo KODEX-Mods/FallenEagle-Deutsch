@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  TFE_culture_decisions.0001.t:0 "Let Them Eat Bread!"
  TFE_culture_decisions.0001.desc:0 "A hungry population is a powerful one - a fact that rich and powerful rulers from my culture have understood well. It is customary to distribute necessities like bread whenever the population begins to grow more agitated. While it is expensive and temporary, it has brought peace to many regions where they were at a breaking point.\n\nHowever, it can be #emp very#! expensive; peace isn't cheap, after all."
  TFE_culture_decisions.0001.a:0 "Distribute bread in the capital, [ROOT.Char.GetCapitalLocation.GetCounty.GetTitle.GetNameNoTierNoTooltip]."

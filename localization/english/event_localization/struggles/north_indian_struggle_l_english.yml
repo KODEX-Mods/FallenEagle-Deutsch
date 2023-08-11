@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  north_indian_struggle.0501.t:0 "The $game_concept_north_indian_struggle$"
  north_indian_struggle.0501.desc:0 "It has been many years since the Eastern or Iranian Huns, known as the "Hunas," emerged from the mountains of Tokharistan to ravage the northern frontier of the Gupta Empire. They are many tribes who eye the riches of India's cities and temples with covetous eyes, as much as they are awed by India's splendor.\n\n[GetGeographicalRegion('TFE_north_indian_struggle_region').GetName] is now a wartorn region at times, and at other times one where ideas, people, and beliefs blend – often, it is both."
  north_indian_struggle.0501.a:0 "Let us accumulate great merit, and bring glory to our name!"

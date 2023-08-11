@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  mil_law_policy:0 "Military Policies"
  mil_law_1:0 "Levy Focus"
  mil_law_1_competency_requirement:0 "Our #V Military Competency#! must be higher than #V [EmptyScope.ScriptValue('imp_policy_1_requirement')|0]#! (current value: #V [GetPlayer.MakeScope.Var('mil_comp').GetValue]#!)"

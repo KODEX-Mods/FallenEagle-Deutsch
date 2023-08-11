@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  cultural_war_victory_desc:0 "[attacker.GetShortUIName|U] seizes all titles within [defender.GetShortUINamePossessive] realm with their culture."
  cultural_war_warning_desc:1 "\n\n#X You may only attempt one cultural conquest per lifetime#!"
  migration_war_warning_desc:1 "\n\n#X You may only attempt one migration per lifetime#!"

@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  struggle_eastern_iranian_house_offense_modifier:1 "Silk Road Conquest"
  struggle_eastern_iranian_house_offense_modifier_desc:1 "The [eastern_iranian_struggle|E] was concluded thanks to the efforts of this house. In the aftermath, they asserted their dominance across much of the Silk Road, particularly in the [GetGeographicalRegion('TFE_eastern_iranian_struggle_region').GetName] [region|E], through military might to make their enemies cower before them."
  struggle_eastern_iranian_house_defense_modifier:1 "Silk Road Bulwark"

@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  rule_tfe_migrations: "Migrations"
  setting_tfe_migrations_very_rare: "#high Very Rare#!"
  setting_tfe_migrations_very_rare_desc: "The AI will attempt to migrate every 25 years."

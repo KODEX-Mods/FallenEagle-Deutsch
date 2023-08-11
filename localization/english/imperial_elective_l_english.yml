@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  imperial_elective_candidates:0 "Close Family, Claimants, and Commanders"
  imperial_elective_candidates_tooltip:0 "In order to be a valid Candidate under Imperial Elective, a character must fulfill the following conditions:\n$EFFECT_LIST_BULLET$Does not have a disfigured trait\n$EFFECT_LIST_BULLET$Be a legitimate [close_family|E] member of the current ruler\n$EFFECT_LIST_BULLET$#high Or#! be a [claimant|E] to the Empire\n$EFFECT_LIST_BULLET$#high Or#! be a valid powerful [vassal|E] or [knight|E] of the Empire"
  imperial_elective_electors:0 "Imperial Electors"

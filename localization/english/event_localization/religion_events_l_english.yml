@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  religion.0001.t:0 "The Missionaries"
  religion.0001.desc:0 "To prove that I am a devout [ROOT.Char.GetFaith.GetAdherentName], I intend to use the resources at my disposal to gather a number of faithful missionaries to spread the truth across the world. With my backing and the protection of [ROOT.Char.GetFaith.HighGodName], these brave souls will surely bring the light of [ROOT.Char.GetFaith.GetNameNoTooltip] to foreign lands!\n\nThese missons require significant resources to ensure their success, but I must be careful when investing in this endeavor. There is always a chance that our missionaries will be unsuccessful, whether due to a lack of true faith and conviction, or because the unbelievers are too stubborn."
  religion.0001.option.a:0 "A small sum will do - we'll be happy if anyone converts."

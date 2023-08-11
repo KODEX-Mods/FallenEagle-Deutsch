@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  minority_culture_spread_title:0 "Cultural Spread"
  minority_culture_spread_tt:0 "A group of [minority_culture.GetName] peasants have moved from [source_county.GetName] to [county.GetName]."
 

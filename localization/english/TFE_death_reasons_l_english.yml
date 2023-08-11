@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  death_sold_gladiator:0 "was sold into slavery as a gladiator"
  death_sold_gladiator_killer:0 "was sold into slavery as a gladiator by [TARGET_CHARACTER.GetUIName]"
  death_died_gladiator:0 "was defeated and killed in the arena as a gladiator"

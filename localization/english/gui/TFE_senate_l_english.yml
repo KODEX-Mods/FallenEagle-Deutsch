@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  ITALIAN_SENATE_HEADER:0 "The Imperial Senate of Roma"
  SENATE_ARISTOCRAT_TOOLTIP:0 "Aristocratic Party\nParty Balance: [GetGlobalVariable('aristocratic_senate_italy_gold').GetValue|0] [gold|E]\nParty Size: [GetDataModelSize(GetGlobalList('aristocratic_senate_italy'))]\n#F Composed of senators of either a patrician background or representing the elite, the Aristocratic Party has the goal of pushing forward the interests of the Roman Empire's upper classes.#!"
  SENATE_ARISTOCRAT_TITLE:0 "Aristocrats"

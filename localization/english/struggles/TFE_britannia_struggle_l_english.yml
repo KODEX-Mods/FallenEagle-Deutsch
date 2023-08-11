@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  # Generic
  britannia_struggle_house_tt: "All [house|E] members:"
  britannia_struggle_can_create_empire_of_britannia_tt: "Unlocks creation of the [empire|E] of [GetTitleByKey('e_britannia').GetNameNoTier]"

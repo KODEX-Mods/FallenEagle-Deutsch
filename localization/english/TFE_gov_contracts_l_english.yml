@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  islamic_taxes:0 "[GetGovernment( 'muslim_government' ).GetNameNoTooltip] [taxes|E]"
  islamic_tax_exempt:0 "Tax Exempt"
  islamic_tax_exempt_short:0 "Exempt"

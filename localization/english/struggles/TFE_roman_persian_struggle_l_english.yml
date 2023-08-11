@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  TFE_roman_persian_struggle_region: "Near East"
  roman_persian_struggle_ending_persia_destroyed:0 "[GetTitleByKey('e_persia').GetName] is destroyed"
  roman_persian_struggle_ending_roman_empire_destroyed:0 "[GetTitleByKey('e_roman_empire').GetName] is destroyed"

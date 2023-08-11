@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
 
  # Tenet Incompatibility
  incompatible_tenet_asceticism_trigger:1 "Incompatible with the [core_tenet|E] [GetFaithDoctrine('tenet_asceticism').GetName( GetPlayer.GetFaith )]"

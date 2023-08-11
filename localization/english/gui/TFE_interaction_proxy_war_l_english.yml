@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  proxy_war_interaction:0 "Arrange Proxy War"
  proxy_war_interaction_desc:0 "You will offer [secondary_actor.GetShortUINameNoTooltip] to declare a [proxy_war|E] on a ruler for a neighboring county in return for troops and [gold|E]"
  PROXY_WAR_DEFENDER:0 "Defender"

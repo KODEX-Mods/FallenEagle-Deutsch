@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  feudalization.0002.t:0 "Roman Decay in [county_being_castled.GetName]"
  feudalization.0002.desc:0 "After the empire lost its control over [county_being_castled.GetName], the remnants of old castles were never removed. I haven't walked through [county_being_castled.GetName] in years but after a tour today it felt like a different place.\nThe walls, different\nThe buildings, different\nThe markets, different\nAnd huge walls were erected to defend from our neighbours eyeing our precious lands. This is clearly not a Roman province anymore. No, it's something else...."
  feudalization.0002.option.a:0 "This is interesting"

@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
 
  TFE_slavic_decisions_event.0001.t:0 "The Birth of Croatia"
  TFE_slavic_decisions_event.0001.desc:0 "Years ago, Slavic tribes made their way to the land the Romans once called [GetGeographicalRegion('custom_roman_illyricum').GetName]. The ancient Illyrians, once feared across the Mediterranean, are no longer the masters of this region. These Slavs, dominated by the [founder.GetCulture.GetName] tribes, have since successfully settled across the rugged mountains and sprawling coastlines of their new homes.\n\nNow that they have established themselves in this region, under the leadership of [founder.GetFirstName], they have formed a new kingdom, and given Illyria a new name: [GetTitleByKey('k_croatia_slav').GetNameNoTier]. Perhaps under [founder.GetHerHis] rule and that of [founder.GetHerHis] descendants, this land will become wealthy and feared once more – this time, however, instead of looking to the Mediterranean as the source of its prosperity and culture, perhaps it will look towards the other lands settled by the Slavic peoples in Eastern Europe."

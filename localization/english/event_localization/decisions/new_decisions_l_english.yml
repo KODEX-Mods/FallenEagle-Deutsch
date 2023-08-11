@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
 #Restore the druids
  restore_the_druids_decision:0 "Restore the [ROOT.Char.GetFaith.GetNameNoTooltip] Priesthood"
  restore_the_druids_decision_confirm:0 "Long live the Myrdidin!"

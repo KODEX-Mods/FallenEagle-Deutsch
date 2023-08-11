@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
 
  # Tribal Era
  culture_parameter_unlock_maa_churls:0 "Can recruit [GetMaA('churls').GetName] as [men_at_arms|E]"

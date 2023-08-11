@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  tfe_title_event.0002.t:0 "[title.GetName] Military Office Opened"
  tfe_title_event.0002.desc:0 "The old office in [title.GetName] has been cleared and it's time to choose a new person to fill their role. Military offices require experience in both governance and military affairs and picking the right person could be the difference between a prosperous empire and one in ashes."
  tfe_title_event.0002.option.a:0 "I'll leave it to the will of the council"

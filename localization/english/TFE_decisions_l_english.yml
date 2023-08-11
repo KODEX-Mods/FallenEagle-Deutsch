@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  new_official_imperial_faith_decision:0 "Proclaim the Official Imperial Faith"
  # new_official_imperial_faith_decision_desc:0 "While my faith is strong and all the citizens of my Empire are eager to convert, some resist, arguing instead that their old convictions are protected under Imperial law.\n\nI, along my councillors, have drafted a new Imperial decree declaring my faith to be the sole and official Faith of the Empire. With this new act, thousands of people will become our new brethren, and the Empire will finally be united in spirit as well as in body."
  new_official_imperial_faith_decision_desc:0 "While my faith is strong and all the citizens of my Empire are eager to convert, some continue to resist, arguing instead that their old convictions are protected under Imperial law.\n\nIt is time to pass a new Imperial decree, declaring my faith to be the sole and official faith of the empire!"
@@ -377,7 +377,7 @@
  establish_chariot_team_confirm:0 "Establish The Teams"
  establish_chariot_team_effect_tt:0 "You will recruit charioteers to establish Blue and Green chariot teams!"
  
- # Lines Extracted from imperialdec_l_english.yml
+ # Lines Extracted from imperialdec_l_german.yml
  start_hunt_decision_tt_header:0 "A successful Hunt will:"
  start_hunt_decision_stress:0 "#P    Reduce your [stress|E]#!"
  

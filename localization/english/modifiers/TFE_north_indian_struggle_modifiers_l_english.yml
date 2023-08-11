@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  struggle_north_indian_house_terror_modifier:1 "Hunas Terror"
  struggle_north_indian_house_terror_modifier_desc:1 "The [north_indian_struggle|E] was completed by this house, who was either of Hunas origin, or given such a label by future Indian historians, who saw them as a great and indomitable force of conquerors equal to the Hunas. They asserted their dominance across the [GetGeographicalRegion('TFE_north_indian_struggle_region').GetName] [region|E] by striking fear into the hearts of their enemies, and building a reputation for brutal conquest and ruthless suppression of their foes."
  struggle_north_indian_house_mastery_modifier:1 "Hunas Mastery"

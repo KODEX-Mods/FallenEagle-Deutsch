@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
 
  tributary_6_tit: "Suzerain Called to War"
  tributary_6_desc: "While reviewing situations that are unfolding across the realm, I received a missive from [calls_to_arms_tribute.GetFirstNameNicknamedNoTooltipRegnal], requesting support in their recent war efforts. While it is my duty to assit them, I wonder if it is the right thing to do for [root.GetPrimaryTitle.GetNameNoTier]?"

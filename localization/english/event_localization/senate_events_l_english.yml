@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  #Lazy loc, will change
  senate.0001.t:0 "Senate Task Completed"
  senate.0001.desc:0 "With the people of [GetGlobalVariable('italy_senate_convert_culture_county').Title.GetName] embracing [GetGlobalVariable('italy_senate_convert_culture_county').Title.GetHolder.GetTopLiege.GetCulture.GetName] as their culture, we have gained the favour of the Senate in the short term. Thus, they will support our endeavors as much as possible."

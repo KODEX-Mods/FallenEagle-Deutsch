@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  
 ccu_debug_culture_heritage_group:0 "CCU Warning" 
 ccu_debug_culture_heritage_group_desc:0 "[problem_culture.GetName] [culture|E] has no [heritage_group|E]!"
