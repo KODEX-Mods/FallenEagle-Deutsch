@@ -47,7 +47,7 @@
  RAETIAI:0 "Raetia Prima"
  ALEMANNIA:0 "Alemannia"
  JUTHUNGIA:0 "Juthungia"
- GALLAECIA:0 "Gallaecia" # Callaecia bis 4. Jh; nicht gefunden in 361
+ GALLAECIA:0 "Gallaecia" # nicht in 361; Callaecia bis 4. Jh
  TARRACONENSIS:0 "Tarraconensis"
  LUSITANIA:0 "Lusitania"
  CARTHAGENENSIS:0 "Carthagenensis"
@@ -60,8 +60,8 @@
  DARDANIA:0 "Dardania"
  ALT_CLUT:0 "Alt Clut"
  ALT_CLUT_adj:0 "Clutisch"
- GODDODYN:0 "Goddodyn" # nicht gefunden in 361
- GODDODYN_adj:0 "Goddodyan" # nicht gefunden in 361
+ GODDODYN:0 "Goddodyn" # nicht in 361
+ GODDODYN_adj:0 "Goddodyan" # nicht in 361
  ADULIS:0 "Adulis"
  ADULIS_adj:0 "Adulisch"
  HARLA:0 "Harala"
@@ -86,49 +86,48 @@
  TUSUROS:0 "Tusuritanus"
  GIRBA:0 "Girba"
  NUMIDIA:0 "Numidia"
- NEMANCHA:0 "Nemancha" # nicht gefunden in 361
- DORSALES:0 "Dorsales" # nicht gefunden in 361
+ NEMANCHA:0 "Nemancha" # nicht in 361
+ DORSALES:0 "Dorsales" # nicht in 361
  OPONE:0 "Opone"
  TAVE:0 "Tave"
  SARAPION:0 "Sarapion"  
- SEVILLA:0 "Sevilla" # nicht gefunden in 361
- CORDOBA:0 "Cordoba" # nur Corduba in 361 gefunden
+ SEVILLA:0 "Sevilla" # nicht in 361
+ CORDOBA:0 "Cordoba" # nur Corduba in 361 (siehe Z. 113)
  TOLEDO:0 "Toledo"
  VASCONIA:0 "Vasconia"
  PANNONIARUM:0 "Pannoniarum"
  ILLYRICUM:0 "Illyricum" # key existiert in Game nicht
- SEPTIMANIA:0 "Septimania" # nur Septimanca in 361 gefunden
+ SEPTIMANIA:0 "Septimania" # nur Septimanca in 361
  YATHRIB:0 "Yathrib"
  LYBIASUPERIOR:0 "Lybia Superior"
  LYBIAINFERIOR:0 "Lybia Inferior"
  AEGYPTUS:0 "Aegyptus"
  AUGUSTAMNICA:0 "Augustamnica"
  ARCADIA:0 "Arcadia"
- THEBAIDA:0 "Thebaida"
+ THEBAIDA:0 "Thebais"
  d_salutaris:0 "Palestina Salutaris"
  BRACARA:0 "Bracara"
- OLISSIPO:0 "Olissipo"
- EMERITA_AUGUSTA:0 "Emerita Augusta"
+ OLISSIPO:0 "Olisippo"
+ EMERITA_AUGUSTA:0 "Augusta Emerita"
  HISPALIS:0 "Hispalis"
  CORDUBA:0 "Corduba"
  ILLIBERIS:0 "Illiberis"
- OROSPEDA:0 "Orospeda"
- CARPETANIA:0 "Carpetania"
+ OROSPEDA:0 "Orospeda" # nicht in 361
  VALENTIA:0 "Valentia"
  BARCINO:0 "Barcino"
- CAESAR_AUGUSTA:0 "Caesar Augusta"
- CELTIBERIA:0 "Celtiberia"
+ CAESAR_AUGUSTA:0 "Caesaraugusta"
+ CELTIBERIA:0 "Celtiberia" # nicht in 361
  LEGIO:0 "Legio"
- ASTURA:0 "Astura"
- ALMEDINA:0 "Al-Medina"
- BAGHDAD:0 "Baghdad"
+ ASTURA:0 "Astura" # nicht in 361
+ ALMEDINA:0 "Al-Medina" # nicht in 361
+ BAGHDAD:0 "Baghdad" # nicht in 361
  EPIRUS_VETUS:0 "Epirus Vetus"
  EPIRUS_NOVA:0 "Epirus Nova"
  k_macedoniae:0 "Macedoniae"
  d_lugdunensis_senonia:0 "Lugdunensis Senonia"
  d_lugdunensis_tertia:0 "Lugdunensis Tertia"
- LUGDUNENSIS_SECUNDA:0 "Lugdunensis Secunda"
- d_lugdunensis_prima:0 "Lugdunensis Prima"
+ LUGDUNENSIS_SECUNDA:0 "Lugdunensis Secunda" 
+ d_lugdunensis_prima:0 "Lugdunensis Prima" ### BIS HIER ###
  BELGICA_SECUNDA:0 "Belgica Secunda"
  ALBION:0 "Albion"
  ALBION_adj:0 "Albionic"
