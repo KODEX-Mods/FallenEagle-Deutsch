@@ -1,3 +1,3 @@
 ﻿l_german:
- DOCTRINE_WITCHCRAFT_ACCEPTED:0 "Incompatible with the [doctrine|E] Witchcraft Accepted"
- NOT_DOCTRINE_WITCHCRAFT_ACCEPTED:0 "Requires the [doctrine|E] Witchcraft Accepted"
+ DOCTRINE_WITCHCRAFT_ACCEPTED:0 "Unvereinbar mit der [doctrine|E] Hexerei akzeptiert"
+ NOT_DOCTRINE_WITCHCRAFT_ACCEPTED:0 "Erfordert die [doctrine|E] Hexerei akzeptiert"
