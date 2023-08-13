@@ -25,11 +25,11 @@
  trait_gladiator_trait:0 "Gladiator"
  trait_gladiator_trait_female:0 "$gladiatrix_key$"
  trait_gladiator_desc:0 "Dieser Charakter ist ein Gladiator, meist ein Sklave oder Gefangener, der verkauft wurde, um in der Arena zu kämpfen und zu sterben."
- trait_gladiator_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] ist ein [ROOT.GetCharacter.Custom('GetGladiatorGladiatrix')], meist ein Sklave oder Gefangener, der verkauft wurde, um in der Arena zu kämpfen und zu sterben."
+ trait_gladiator_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] ist ein[ROOT.GetCharacter.Custom('DE_END_PRO_S_N')] [ROOT.GetCharacter.Custom('GetGladiatorGladiatrix')], meist ein[ROOT.GetCharacter.Custom('DE_END_PRO_S_N')] [Select_CString( ROOT.GetCharacter.IsFemale, 'Sklavin', 'Sklave' )] oder Gefangen[ROOT.GetCharacter.Custom('DE_END_ADJ_NUL_S_N')], [ROOT.GetCharacter.Custom('DE_ART_DEF_S_N')] verkauft wurde, um in der Arena zu kämpfen und zu sterben."
  trait_former_gladiator_trait:0 "Ehemaliger Gladiator"
- trait_former_gladiator_trait_female:0 "Ehemaliger $gladiatrix_key$"
+ trait_former_gladiator_trait_female:0 "Ehemalige $gladiatrix_key$"
  trait_former_gladiator_desc:0 "Dieser Charakter hat genug Kämpfe in der Arena als Gladiator überlebt, um seine Freiheit zu erlangen."
- trait_former_gladiator_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] hat genug Kämpfe in der Arena als [ROOT.GetCharacter.Custom('GetGladiatorGladiatrix')] überlebt, um seine Freiheit zu erlangen."
+ trait_former_gladiator_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] hat genug Kämpfe in der Arena als [ROOT.GetCharacter.Custom('GetGladiatorGladiatrix')] überlebt, um [ROOT.GetCharacter.Custom('DE_PRO_POS_S_3P')] Freiheit zu erlangen."
 
 #Reasons
  #Already in vanilla
@@ -49,7 +49,7 @@
 
  # Attila Trait
  trait_the_hun:0 "Der Hunne"
- trait_the_hun_desc:0 "Der Hunne war der Beiname des nomadischen Kriegsherrn Attila, der aufgrund seines Rufs, keine christliche Stadt von seinem zerstörerischen Wüten in Europa zu verschonen, auch die Geißel Gottes bekannt war."
+ trait_the_hun_desc:0 "Der Hunne war der Beiname des nomadischen Kriegsherrn Attila, der aufgrund seines Rufs, keine christliche Stadt von seinem zerstörerischen Wüten in Europa zu verschonen, auch als die Geißel Gottes bekannt war."
 
  # Heir of Attila Trait
  trait_heir_of_attila:0 "Erbe Attilas"
@@ -71,7 +71,7 @@
  apotheosised_trait_desc:0 "Dieser Charakter, ein römischer Kaiser, wurde von einem Nachfolger apotheotisiert und vergöttlicht."
 
  trait_brahmin:0 "Brahmana"
- trait_brahmin_desc:0 "Die Brahmanen entstanden dem Mund des Urriesen Purusha  und ihre [varna|E] ist göttlich geweiht, um als Priester, Lehrer und Gelehrte zu dienen."
+ trait_brahmin_desc:0 "Die Brahmanen entstanden aus dem Mund des Urriesen Purusha und ihre [varna|E] ist göttlich geweiht, um als Priester, Lehrer und Gelehrte zu dienen."
  trait_brahmin_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] gehört der [varna|E] der Brahmanen an, die auf dem indischen Subkontinent traditionell als Geistliche und Gelehrte dienen.\n\nEs gilt als Sünde, einen Brahmanen zu töten oder ihm Land zu nehmen."
  trait_kshatriya:0 "Kshatriya"
  trait_kshatriya_desc:0 "Die Kshatriya entstanden aus den Armen des Urriesen Purusha und sind als Krieger bekannt. Die Dharmashastra lehren, dass ein Königreich vorzugsweise von einem Mitglied der [varna|E] der Kshatriya regiert werden sollte."
