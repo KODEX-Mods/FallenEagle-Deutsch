@@ -29,7 +29,7 @@
  trait_former_gladiator_trait:0 "Ehemaliger Gladiator"
  trait_former_gladiator_trait_female:0 "Ehemalige $gladiatrix_key$"
  trait_former_gladiator_desc:0 "Dieser Charakter hat genug Kämpfe in der Arena als Gladiator überlebt, um seine Freiheit zu erlangen."
- trait_former_gladiator_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] hat genug Kämpfe in der Arena als [ROOT.GetCharacter.Custom('GetGladiatorGladiatrix')] überlebt, um [ROOT.GetCharacter.Custom('DE_PRO_POS_S_3P')] Freiheit zu erlangen."
+ trait_former_gladiator_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] hat genug Kämpfe in der Arena als [ROOT.GetCharacter.Custom('GetGladiatorGladiatrix')] überlebt, um [ROOT.GetCharacter.Custom('DE_PRO_POS_S_3P')]e Freiheit zu erlangen."
 
 #Reasons
  #Already in vanilla
