@@ -3,15 +3,15 @@
  arianism_adj:0 "Arianisch"
  arianism_adherent:0 "Arianer"
  arianism_adherent_plural:0 "Arianer"
- arianism_desc:0 "Der Arianismus ist eine Christliche Lehre, welche von Arius (geboren um 260 n. Chr.; gestorben um 335 n. Chr.), einem christlichen Presbyter aus Alexandria, begründet wurde. Nach Arianischer Theologie ist Gott ein Wesen ohne Ursprung oder Zeugung. Da der Sohn Gottes vom Vater gezeugt wurde, kann dieser nicht Gott im selben Sinne sein wie der Vater und ist diesem daher untergeordnet. Diese Subordination des Sohnes steht im Konflikt mit der traditionellen Trinitätslehre, wonach der Vater, der Sohn und der Heilige Geist eine unauflösbare Einheit darstellen und sich gleich im Wesen sind. Der Begriff „Arianer“ ist daher eine Bezeichnung der Anhänger Arius', den sie sich jedoch nicht selbst gaben, sondern so wie die #italic Christen#! von anderen bekommen haben. Die Lehren Arius' wurden von den Homoousianern, also den Christen, die an die Wesensgleichheit von Vater und Sohn glaubten, abgelehnt. Das Argument war, dass seine Lehre die monotheistische Gotteslehre durch eine polytheistische ersetze, da Gott und Jesus nach Arianischer Theologie zwei verschiedene Wesen seien, die beide als Götter verehrt würden."
+ arianism_desc:0 "Der Arianismus ist eine christliche Lehre, welche von Arius (geb. um 260 n. Chr., gest. um 335 n. Chr.), einem christlichen Presbyter aus Alexandria, begründet wurde. Nach Arianischer Theologie ist Gott ein Wesen ohne Ursprung oder Zeugung. Da der Sohn Gottes vom Vater gezeugt wurde, kann dieser nicht Gott im selben Sinne sein wie der Vater und ist diesem daher untergeordnet. Diese Subordination des Sohnes steht im Konflikt mit der traditionellen Trinitätslehre, wonach der Vater, der Sohn und der Heilige Geist eine unauflösbare Einheit darstellen und sich im Wesen gleichen. Der Begriff „Arianer“ ist daher eine Bezeichnung der Anhänger Arius', den sie sich jedoch nicht selbst gaben, sondern, wie die #italic Christen#!, von anderen erhalten haben. Die Lehren Arius' wurden von den Homousianern, also den Christen, die an die Wesensgleichheit von Vater und Sohn glaubten, abgelehnt. Das Argument war, dass Arius' Theologie die monotheistische Gotteslehre durch eine polytheistische ersetze, da Gott und Jesus nach Arianischer Theologie zwei verschiedene Wesen seien, die beide als Götter verehrt würden."
  special_faith_teachings_of_ulfilas_name:0 "Wulfilas Lehre"
- special_faith_teachings_of_ulfilas_desc:0 "Bischof Wulfila (geboren um 311 n. Chr.; gestorben im Jahr 383 n. Chr.) war ein gotischer Theologe, der sein Leben damit verbrachte, das Wort Gottes unter seinen Leuten, den Goten, zu verbreiten. Dazu übersetzte er Teile der Bibel in die von ihm entwickelte gotische Schrift. Sein Werk, die sogenannte „Wulfabibel“, war unter den Goten beliebter als andere Christliche Lehren."
+ special_faith_teachings_of_ulfilas_desc:0 "Bischof Wulfila (geb. um 311 n. Chr., gest. 383 n. Chr.) war ein gotischer Theologe, der sein Leben damit verbrachte, das Wort Gottes unter seinesgleichen, den Goten, zu verbreiten. Dazu übersetzte er Teile der Bibel in die von ihm entwickelte gotische Schrift. Sein Werk, die sogenannte „Wulfilabibel“, war unter den Goten beliebter als andere Christliche Lehren."
  
  donatism:0 "Donatismus"
  donatism_adj:0 "Donatistisch"
  donatism_adherent:0 "Donatist"
  donatism_adherent_plural:0 "Donatisten"
- donatism_desc:0 "Donatus von Karthago (geboren um 278 n. Chr.; gestorben im Jahr 355 n. Chr.) war von 315 n. Chr. bis zu seinem Tod in 355 n. Chr. Primas der nordafrikanischen Donatistischen Kirche, einer Abspaltung der Christlichen Kirche. Die Donatisten sind der Ansicht, dass Geistliche fehlerfrei sein müssen, damit ihr Dienst wirksam ist und ihre Gebete und Sakramente gütlig sind. Daher entbrannte im Winter 312/313 n. Chr. ein heftiger Streit um den Bischof von Karthago, Caecilianus, und darum, ob er der rechtmäßige  Vertreter der nordafrikanischen Christen sein darf. Das Ergebnis des Streits war das Donatistische Schisma."
+ donatism_desc:0 "Donatus von Karthago (geb. vor 313, gest. um 355) war von 315 n. Chr. bis zu seinem Tod in 355 n. Chr. Primas der nordafrikanischen Donatistischen Kirche, einer Abspaltung der Christlichen Kirche. Die Donatisten sind der Ansicht, dass Geistliche fehlerfrei sein müssen, damit ihr Dienst wirksam ist und ihre Gebete und Sakramente gütlig sind. Daher entbrannte im Winter 312/313 n. Chr. ein heftiger Streit um den Bischof von Karthago, Caecilianus, und darum, ob er der rechtmäßige  Vertreter der nordafrikanischen Christen sein darf. Das Ergebnis des Streits war das Donatistische Schisma."
  
  macedonianism:0 "Makedonianismus"
  macedonianism_adj:0 "Makedonianisch"
@@ -47,7 +47,7 @@
  chalcedonian_adj:0 "Chalkedonensisch"
  chalcedonian_adherent:0 "Chalkedonense"
  chalcedonian_adherent_plural:0 "Chalkedonensen"
- chalcedonian_desc:0 "Chalkedonismus ist ein Zweig des Christentums, der sich als Folge des Konzils von Chalkedon im Jahr 451 n. Chr. mit anderen Orientalischen Kirchen und dem Nestorianismus von der Reichskirche abgespalten hat. Grund dafür war, dass Papst Leo den Miaphysitismus, welcher von den Orientalischen Kirchen verfochten wurde, ablehnte."
+ chalcedonian_desc:0 "Chalkedonismus ist ein Zweig des Christentums, der sich als Folge des Konzils von Chalkedon im Jahr 451 n. Chr. mit anderen orientalischen Kirchen und dem Nestorianismus von der Reichskirche abgespalten hat. Grund dafür war, dass Papst Leo den Miaphysitismus, welcher von den Orientalischen Kirchen verfochten wurde, ablehnte."
  chalcedonian_religious_head_title:0 "Patriarch"
  chalcedonian_religious_head_title_name:0 "Patriarchat"
  
@@ -75,13 +75,13 @@
  marcionite_adj:0 "Markionitisch"
  marcionite_adherent:0 "Markionit"
  marcionite_adherent_plural:0 "Markioniten"
- marcionite_desc:0 "Die Markioniten folgen den Lehren Markions von Sinope (geboren um 90 n. Chr.; gestorben um 160 n. Chr.). Diese besagen, dass sich der „gute, unbekannte Gott“ aus dem Neuen Testament vom „bösen, bekannten Schöpfergott“ des Alten Testaments unterscheidet."
+ marcionite_desc:0 "Die Markioniten folgen den Lehren Markions von Sinope (geb. um 90 n. Chr., gest. um 160 n. Chr.). Diese besagen, dass sich der „gute, unbekannte Gott“ aus dem Neuen Testament vom „bösen, bekannten Schöpfergott“ des Alten Testaments unterscheidet."
 
  montanist:0 "Montanismus"
  montanist_adj:0 "Montanistisch"
  montanist_adherent:0 "Montanist"
  montanist_adherent_plural:0 "Montanisten"
- montanist_desc:0 "Die Christliche prophetische Bewewgung, die sich auch selbst „Neue Prophetie“ nennen, glaubten Offenbarungen des Heiligen Geistes zu besitzen. Sie sollen dem Gründer Montanus (gestorben um 175 n. Chr.) angesichts des nahen Weltendes eingegeben worden sein. Durch göttliche Besitznahme können die auserwählten zu Propheten werden."
+ montanist_desc:0 "Die christliche prophetische Bewewgung, die sich auch selbst „Neue Prophetie“ nennt, glaubte Offenbarungen des Heiligen Geistes zu besitzen. Sie sollen dem Gründer Montanus (gestorben um 175 n. Chr.) angesichts des nahen Weltendes eingegeben worden sein. Durch göttliche Besitznahme können die auserwählten zu Propheten werden."
 
  # Perpuza
  holy_site_perpuza_name:0 "Pepouza"
@@ -91,25 +91,25 @@
  abelian_adj:0 "Abelitisch"
  abelian_adherent:0 "Abelit"
  abelian_adherent_plural:0 "Abeliten"
- abelian_desc:0 "Die Abeliten sind eine Sekte Nordafrikanischen Urpsrungs. Nach dem angeblichen Vorbild Abels verwerfen sie den ehelichen Umgang und adoptieren je einen Jungen und ein Mädchen, die sie großziehen. Diese beerben die Pflegeeltern, müssten aber später so leben wie sie. Starb eins der Kinder, wurde es durch ein anderes desselben Geschlechts ersetzt. Ihre Überzeugungen kreuzen sich mit denen der Christen und Juden, sowie denen der Gnostiker und Heiden."
+ abelian_desc:0 "Die Abeliten sind eine Sekte nordafrikanischen Urpsrungs. Nach dem angeblichen Vorbild Abels verwerfen sie den ehelichen Umgang und adoptieren je einen Jungen und ein Mädchen, die sie großziehen. Diese beerben die Pflegeeltern, müssten aber später so leben wie sie. Starb eines der Kinder, wurde es durch ein anderes desselben Geschlechts ersetzt. Ihre Überzeugungen kreuzen sich mit denen der Christen und Juden, sowie denen der Gnostiker und Heiden."
 
  nazarene:0 "Nazoräertum"
  nazarene_adj:0 "Nazoräisch"
  nazarene_adherent:0 "Nazoräer"
  nazarene_adherent_plural:0 "Nazoräer"
- nazarene_desc:0 "Der Name „Nazoräer“ leitet sich von der Aramäischen Selbstbezeichnung der Syrischen Judenchristen #italic „nāṣrayyā“#! ab, welcher so viel bedeutet wie „Observante“ oder „Rechtsgläubige“. Aufgrund der Ablehnung der Halacha und ihrer Zugehörigkeit zu Jesus, werden die Nazoräer, trotz ihrer Überzeugung, sie hätten die jüdische Identität behalten, von den restlichen Juden als apostatisch bezeichnet."
+ nazarene_desc:0 "Der Name „Nazoräer“ leitet sich von der Aramäischen Selbstbezeichnung der syrischen Judenchristen #italic „nāṣrayyā“#! ab, welcher so viel bedeutet wie „Observante“ oder „Rechtsgläubige“. Aufgrund der Ablehnung der Halacha und ihrer Zugehörigkeit zu Jesu, werden die Nazoräer, trotz ihrer Überzeugung, sie hätten die jüdische Identität behalten, von den restlichen Juden als apostatisch bezeichnet."
 
  bardaisanism:0 "Bardaisanitentum"
  bardaisanism_adj:0 "Bardaisanitisch"
  bardaisanism_adherent:0 "Bardaisanit"
  bardaisanism_adherent_plural:0 "Bardaisaniten"
- bardaisanism_desc:0 "Der (vermutlich) Syrische Gnostiker Bardaisan (geboren im Jahr 154 n. Chr.; gestorben im Jahr 222 n. Chr.) schuf die nach ihm bennannte Bardaisanitische Lehre. Sie verband die Christliche Theologie mit Gnostischen Elementen. Wie die Christen, glaubte Bardaisan an einen allmächtigen und absoluten Gott, welcher Schöpfer von Himmel und Erde ist. Dieser schenkte den Menschen Willensfreiheit und ließ die Welt eine Mischung aus Gut und Böse, Licht und Finsternis sein. Darüberhinaus hielt Bardaisan die Sonne, den Mond und die Planeten für Lebewesen, die den Menschen, trotz ihrer Freiheit, zum Guten oder Bösen beeinflussten."
+ bardaisanism_desc:0 "Der vermutlich syrische Gnostiker Bardaisan (geb. 154 n. Chr.; gest. 222 n. Chr.) schuf die nach ihm bennannte Bardaisanitische Lehre. Sie verband die christliche Theologie mit gnostischen Elementen. Wie die Christen glaubte Bardaisan an einen allmächtigen und absoluten Gott, welcher Schöpfer von Himmel und Erde ist. Dieser schenkte den Menschen Willensfreiheit und ließ die Welt eine Mischung aus Gut und Böse, Licht und Finsternis sein. Darüberhinaus hielt Bardaisan die Sonne, den Mond und die Planeten für Lebewesen, die den Menschen trotz ihrer Freiheit zum Guten oder Bösen beeinflussten."
 
  carpocratian:0 "Karpokratianismus"
  carpocratian_adj:0 "Karpokratianisch"
  carpocratian_adherent:0 "Karpokratianer"
  carpocratian_adherent_plural:0 "Karpokratianer"
- carpocratian_desc:0 "Nach den Gnostisch-Christlichen Lehren Karprokates (gelebt im 2. Jh. n. Chr.) und denen, die seine Lehre erweiterten, war Jesus #italic nicht#! heilig. Er hatte aber eine Seele, die so rein war, dass er in der Lage war, sich von der materiellen Welt zu befreien. Somit war er nicht mehr dem Mosaischen Gesetz oder anderen #italic falschen#! Sitten unterworfen. Aufgrund Jesus' Menschlichkeit stellte Marzellina, die die Lehren Karprokates' erweiterte, weltlichen Philosophen, wie Pythagoras, Plato und Aristoteles mit deisem auf eine Stufe. Sie sollen wie Jesus als Idole geehrt werden."
+ carpocratian_desc:0 "Nach den gnostisch-christlichen Lehren Karprokates (gelebt im 2. Jh. n. Chr.) und denen, die seine Lehre erweiterten, war Jesus #italic nicht#! heilig. Er hatte aber eine Seele, die so rein war, dass er in der Lage war, sich von der materiellen Welt zu befreien. Somit war er nicht mehr dem Mosaischen Gesetz oder anderen #italic falschen#! Sitten unterworfen. Aufgrund der Menschlichkeit Jesu stellte Marzellina, die die Lehren Karprokates' erweiterte, weltlichen Philosophen, wie Pythagoras, Plato und Aristoteles mit diesem auf eine Stufe. Sie sollen wie Jesus als Idole geehrt werden."
 
  collyridian:0 "Kollyridianismus"
  collyridian_adj:0 "Kollyridianisch"
@@ -133,12 +133,12 @@
  novatianism_adj:0 "Novatianisch"
  novatianism_adherent:0 "Novatianer"
  novatianism_adherent_plural:0 "Novatianer"
- novatianism_desc:0 "Die Novatianisch Theologie lehrte, dass getaufte Christen, die ihren Glauben verleugnen oder heidnische Rituale durchführen, auch um sich vor heidnischer Verfolgung zu schützen, nicht wieder in die Kirche aufgenommen werden können. Die Novatianer sprechen nämlich die Vergebung nicht der Kirche, sondern nur Gott zu. Daher wurden sie als Ketzer bezeichnet, was im Novatianischen Schisma resultierte, welches bis zur Vereinigung während des Konzils von Nicäa im Jahr 325 n. Chr. währt"
+ novatianism_desc:0 "Die novatianische Theologie lehrte, dass getaufte Christen, die ihren Glauben verleugnen oder heidnische Rituale durchführen, auch um sich vor heidnischer Verfolgung zu schützen, nicht wieder in die Kirche aufgenommen werden können. Die Novatianer sprechen nämlich die Vergebung nicht der Kirche, sondern einzig Gott zu. Daher wurden sie als Ketzer bezeichnet, was im Novatianischen Schisma resultierte, welches bis zur Vereinigung während des Konzils von Nicäa im Jahr 325 n. Chr. währt"
 
  rogatism:0 "Rogatismus"
  rogatism_adj:0 "Rogatistisch"
  rogatism_adherent:0 "Rogatist"
  rogatism_adherent_plural:0 "Rogatisten"
- rogatism_desc:0 "Der Rogatismus entstand aus dem Schisma von der Donatistischen Theologie um 360 n. Chr. Zwar waren sich die beiden Theologien einig über die Reinheit des Klerus, jedoch nicht über die Anwendung von Gewalt in der Kirche. Nach den Rogatisten „[sollte] Niemand [...] gezwungen werden, der Gerechtigkeit zu folgen.“"
+ rogatism_desc:0 "Der Rogatismus entstand aus dem Schisma von der donatistischen Theologie um 360 n. Chr. Zwar waren sich die beiden Theologien einig über die Reinheit des Klerus, jedoch nicht über die Anwendung von Gewalt in der Kirche. Nach den Rogatisten sollte niemand gezwungen werden, der Gerechtigkeit zu folgen."
 
 
