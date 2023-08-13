@@ -85,7 +85,7 @@
 
  # Perpuza
  holy_site_perpuza_name:0 "Pepouza"
- holy_site_perpuza_effect_name:0 "[holy_site|E] von #weak ($holy_site_perpuza_name$)#!"
+ holy_site_perpuza_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_perpuza_name$)#!"
 
  abelian:0 "Abelitentum"
  abelian_adj:0 "Abelitisch"
