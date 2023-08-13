@@ -4,19 +4,19 @@
  united_islam_adj:0 "Muslimisch"
  united_islam_adherent:0 "Muslim"
  united_islam_adherent_plural:0 "Muslime"
- united_islam_desc:0 "Der Islam, eine monotheistische Religion, gründet sich auf die Offenbarungen des Propheten Mohammed (geboren um 570 n. Chr.; gestorben im Jahr 632 n. Chr.) im 7. Jahrhundert in Arabien. Muslime verehren die Einheit Gottes (Allah) und richten sich nach den Lehren des Quran sowie der Sunna, den Handlungen und Aussagen des Propheten. Die "Fünf Säulen des Islam" umfassen grundlegende Praktiken wie Gebet, Almosen, Fasten im Ramadan, Pilgerfahrt nach Mekka und das Glaubensbekenntnis. Ethik, Gerechtigkeit und Barmherzigkeit sind zentrale Werte. Der Islam umfasst verschiedene Ausrichtungen, darunter Sunnismus und Schiismus, mit unterschiedlichen theologischen Ansätzen."
+ united_islam_desc:0 "Der Islam, eine monotheistische Religion, gründet sich auf die Offenbarungen des Propheten Mohammed (geb. um 570 n. Chr.; gest. 632 n. Chr.) im 7. Jahrhundert in Arabien. Muslime verehren die Einheit Gottes, Allah, und richten sich nach den Lehren des Koran sowie der Sunna, den Handlungen und Aussagen des Propheten. Die „Fünf Säulen des Islam“ umfassen grundlegende Praktiken wie Gebet, Almosen, Fasten im Ramadan, Pilgerfahrt nach Mekka und das Glaubensbekenntnis. Ethik, Gerechtigkeit und Barmherzigkeit sind zentrale Werte. Der Islam umfasst verschiedene Ausrichtungen, darunter Sunnismus und Schiismus, mit unterschiedlichen theologischen Ansätzen."
 
  sunni:0 "Sunnismus"
  sunni_adj:0 "Sunnitisch"
  sunni_adherent:0 "Sunnit"
  sunni_adherent_plural:0 "Sunniten"
- sunni_desc:0 "Der Sunnismus ist einer der Hauptzweige des Islam, der auf den Lehren des Propheten Mohammed basiert. Er betont die Autorität des Quran und der Sunna, welche die Grundlage für den Glauben und das religiöse Recht bilden. Der Sunnismus kennt verschiedene Rechtsschulen, die auf unterschiedlichen Interpretationen der religiösen Gesetze beruhen. Das Glaubensbekenntnis, Einheit Gottes, Prophetenschaft Mohammeds und moralische Lehren sind zentrale Elemente im Sunnitischen Glauben. Gelehrte spielen eine wichtige Rolle bei der Auslegung der Texte, während keine formelle Hierarchie von Imamen existiert."
+ sunni_desc:0 "Der Sunnismus ist einer der Hauptzweige des Islam, der auf den Lehren des Propheten Mohammed basiert. Er betont die Autorität des Koran und der Sunna, welche die Grundlage für den Glauben und das religiöse Recht bilden. Der Sunnismus kennt verschiedene Rechtsschulen, die auf unterschiedlichen Interpretationen der religiösen Gesetze beruhen. Das Glaubensbekenntnis, die Einheit Gottes, die Prophetenschaft Mohammeds und moralische Lehren sind zentrale Elemente im Sunnitischen Glauben. Gelehrte spielen eine wichtige Rolle bei der Auslegung der Texte, während keine formelle Hierarchie von Imamen existiert."
 
  shia:0 "Schiismus"
  shia_adj:0 "Schiitisch"
  shia_adherent:0 "Schiit"
  shia_adherent_plural:0 "Schiiten"
- shia_desc:0 "Der Schiismus ist ein Hauptzweig des Islam, der sich auf die Führung der Nachkommen von Prophet Mohammed, insbesondere Ali und seinen Nachkommen, beruft. Die Anhänger des Schiismus, Schiiten genannt, betonen die spirituelle und moralische Autorität dieser Imame neben dem religiösen Text. Der Quran und die Sunna sind auch für Schiiten wichtig, aber die Imame interpretieren und erklären diese Lehren für die Gläubigen. Der Schiismus ist vielfältig und besteht aus verschiedenen Strömungen. Schiiten glauben an die Wiederkehr des verborgenen zwölften Imam, Mahdi, als Erlöser."
+ shia_desc:0 "Der Schiismus ist ein Hauptzweig des Islam, der sich auf die Führung der Nachkommen von Prophet Mohammed, insbesondere Ali und seinen Nachkommen, beruft. Die Anhänger des Schiismus, Schiiten genannt, betonen die spirituelle und moralische Autorität dieser Imame neben dem religiösen Text. Der Koran und die Sunna sind auch für Schiiten wichtig, aber die Imame interpretieren und erklären diese Lehren für die Gläubigen. Der Schiismus ist vielfältig und besteht aus verschiedenen Strömungen. Schiiten glauben an die Wiederkehr des verborgenen zwölften Imam, Mahdi, als Erlöser."
 
  khawariji:0 "Charidschitentum"
  khawariji_adj:0 "Charidschitisch"
