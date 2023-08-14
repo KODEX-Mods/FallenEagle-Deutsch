@@ -668,35 +668,35 @@ l_german:
 ## Holy Site ##
 
  #holy_site_raivola_name:0 "Raivola"
- #holy_site_raivola_effect_name:0 "From [holy_site|E] #weak ($holy_site_raivola_name$)#!"
+ #holy_site_raivola_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_raivola_name$)#!"
  #holy_site_hiiumaa_name:0 "Hiiumaa"
- #holy_site_hiiumaa_effect_name:0 "From [holy_site|E] #weak ($holy_site_hiiumaa_name$)#!"
+ #holy_site_hiiumaa_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_hiiumaa_name$)#!"
  holy_site_enare_name:0 "Äijihsuálui"
- holy_site_enare_effect_name:0 "From [holy_site|E] #weak ($holy_site_enare_name$)#!"
+ holy_site_enare_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_enare_name$)#!"
  
  holy_site_enarefi_name:0 "Ukonkivi"
- holy_site_enarefi_effect_name:0 "From [holy_site|E] #weak ($holy_site_enarefi_name$)#!"
+ holy_site_enarefi_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_enarefi_name$)#!"
  
  #holy_site_perm_name:0 "Perm"
- #holy_site_perm_effect_name:0 "From [holy_site|E] #weak ($holy_site_perm_name$)#!"
+ #holy_site_perm_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_perm_name$)#!"
  holy_site_sjeltie_name:0 "Sjeltie"
- holy_site_sjeltie_effect_name:0 "From [holy_site|E] #weak ($holy_site_sjeltie_name$)#!"
+ holy_site_sjeltie_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_sjeltie_name$)#!"
  holy_site_choklema_name:0 "Choklema"
- holy_site_choklema_effect_name:0 "From [holy_site|E] #weak ($holy_site_choklema_name$)#!"
+ holy_site_choklema_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_choklema_name$)#!"
  holy_site_uiska_name:0 "Uiska"
- holy_site_uiska_effect_name:0 "From [holy_site|E] #weak ($holy_site_uiska_name$)#!"
+ holy_site_uiska_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_uiska_name$)#!"
  holy_site_yoshkar-ola_name:0 "Yoshkar-Ola"
- holy_site_yoshkar-ola_effect_name:0 "From [holy_site|E] #weak ($holy_site_yoshkar-ola_name$)#!"
+ holy_site_yoshkar-ola_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_yoshkar-ola_name$)#!"
  holy_site_tambov_name:0 "Tambov"
- holy_site_tambov_effect_name:0 "From [holy_site|E] #weak ($holy_site_tambov_name$)#!"
+ holy_site_tambov_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_tambov_name$)#!"
  holy_site_koda_name:0 "Koda"
- holy_site_koda_effect_name:0 "From [holy_site|E] #weak ($holy_site_koda_name$)#!"
+ holy_site_koda_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_koda_name$)#!"
  #holy_site_tara_name:0 "Tara"
- holy_site_tara_effect_name:0 "From [holy_site|E] #weak ($holy_site_tara_name$)#!"
+ holy_site_tara_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_tara_name$)#!"
  
  glazov:0 "Glazov"
  holy_site_glazov_name:0 "Glazov"
- holy_site_glazov_effect_name:0 "From [holy_site|E] #weak ($holy_site_glazov_name$)#!"
+ holy_site_glazov_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_glazov_name$)#!"
  
 
  ## Samoyedic / Nenets ##
@@ -992,21 +992,21 @@ l_german:
  
  #Holy Sites: Estonian
  holy_site_harja_name:0 "Härjä" #Toompea
- holy_site_harja_effect_name:0 "From [holy_site|E] #weak ($holy_site_harja_name$)#!"
+ holy_site_harja_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_harja_name$)#!"
  holy_site_kuremae_name:0 "Kuremäe"
- holy_site_kuremae_effect_name:0 "From [holy_site|E] #weak ($holy_site_kuremae_name$)#!"
+ holy_site_kuremae_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_kuremae_name$)#!"
  holy_site_puhajarv_name:0 "Pühajärv"
- holy_site_puhajarv_effect_name:0 "From [holy_site|E] #weak ($holy_site_puhajarv_name$)#!"
+ holy_site_puhajarv_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_puhajarv_name$)#!"
 
 #Holy Sites: Osilian
  holy_site_ebavere_name:0 "Ebaveremägi" #Birthplace of Taara
- holy_site_ebavere_effect_name:0 "From [holy_site|E] #weak ($holy_site_ebavere_name$)#!"
+ holy_site_ebavere_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_ebavere_name$)#!"
  holy_site_kaali_name:0 "Kaali"
- holy_site_kaali_effect_name:0 "From [holy_site|E] #weak ($holy_site_kaali_name$)#!"
+ holy_site_kaali_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_kaali_name$)#!"
  holy_site_taaralinn_name:0 "Taaralinn"
- holy_site_taaralinn_effect_name:0 "From [holy_site|E] #weak ($holy_site_taaralinn_name$)#!"
+ holy_site_taaralinn_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_taaralinn_name$)#!"
  holy_site_turaida_name:0 "Turaida"
- holy_site_turaida_effect_name:0 "From [holy_site|E] #weak ($holy_site_turaida_name$)#!"
+ holy_site_turaida_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_turaida_name$)#!"
  
  # Nenets courtier
  nenets_courtier.0001:0 "Nenets courtier"
@@ -1084,15 +1084,15 @@ l_german:
  bjarmian_pagan_desc:0 "Jómali is the supreme god of the Bjarmian pagans."
  
  holy_site_bjarmiasite_name:0 "Kholmogory"
- holy_site_bjarmiasite_effect_name:0 "From [holy_site|E] #weak ($holy_site_bjarmiasite_name$)#!"
+ holy_site_bjarmiasite_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_bjarmiasite_name$)#!"
  holy_site_pudozh_name:0 "Pudozh"
- holy_site_pudozh_effect_name:0 "From [holy_site|E] #weak ($holy_site_pudozh_name$)#!"
+ holy_site_pudozh_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_pudozh_name$)#!"
  
  holy_site_volga_name:0 "Volga"
- holy_site_volga_effect_name:0 "From [holy_site|E] #weak ($holy_site_volga_name$)#!"
+ holy_site_volga_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_volga_name$)#!"
  
  holy_site_kainuu_name:0 "Kainuu"
- holy_site_kainuu_effect_name:0 "From [holy_site|E] #weak ($holy_site_kainuu_name$)#!"
+ holy_site_kainuu_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_kainuu_name$)#!"
  
  holy_order_children_of_fertilitygod:0 "Children of [FAITH.FertilityGodName]"
 holy_order_chosen_of_highgod:0 "Chosen of [FAITH.HighGodName]"
