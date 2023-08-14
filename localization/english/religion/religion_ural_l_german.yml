@@ -1088,7 +1088,7 @@ l_german:
  holy_site_pudozh_name:0 "Pudozh"
  holy_site_pudozh_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_pudozh_name$)#!"
  
- holy_site_volga_name:0 "Volga"
+ holy_site_volga_name:0 "Wolga"
  holy_site_volga_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_volga_name$)#!"
  
  holy_site_kainuu_name:0 "Kainuu"
