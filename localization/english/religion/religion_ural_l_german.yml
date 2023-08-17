@@ -236,15 +236,15 @@ l_german:
  khanty_pagan_water_god_name:0 "Wit Xōn"
  khanty_pagan_water_god_name_possessive:0 "Wit Xōns"
  
- khanty_pagan:0 "Šamánentum"
+ khanty_pagan:0 "Šamánvuta"
  khanty_pagan_adj:0 "Šamánisch"
- khanty_pagan_adherent:0 "Šamánuskoa"
- khanty_pagan_adherent_plural:0 "Šamánuskoa"
+ khanty_pagan_adherent:0 "Šamánvuta"
+ khanty_pagan_adherent_plural:0 "Šamánvuta"
 
- khanty_pagan_old:0 "Altes Šamánentum"
+ khanty_pagan_old:0 "Altes Šamánvuta"
  khanty_pagan_old_adj:0 "Alt-Šamánisch"
- khanty_pagan_old_adherent:0 "Alt-Šamánuskoa"
- khanty_pagan_old_adherent_plural:0 "Alt-Šamánuskoa"
+ khanty_pagan_old_adherent:0 "Alt-Šamánvuta"
+ khanty_pagan_old_adherent_plural:0 "Alt-Šamánvuta"
  
  ## Sami ##
  
@@ -259,13 +259,13 @@ l_german:
  
  sami_pagan:0 "Noajdevuohta"
  sami_pagan_adj:0 "Noajdeitisch"
- sami_pagan_adherent:0 "Noaiduskoa"
- sami_pagan_adherent_plural:0 "Noaiduskoa"
+ sami_pagan_adherent:0 "Noajdeuskoa"
+ sami_pagan_adherent_plural:0 "Noajdeuskoa"
 
- sami_pagan_old:0 "Altes Noaidevuohta"
+ sami_pagan_old:0 "Altes Noajdevuohta"
  sami_pagan_old_adj:0 "Alt-Noajdetisch"
- sami_pagan_old_adherent:0 "Alt-Noaiduskoa"
- sami_pagan_old_adherent_plural:0 "Alt-Noaiduskoa"
+ sami_pagan_old_adherent:0 "Alt-Noajdeuskoa"
+ sami_pagan_old_adherent_plural:0 "Alt-Noajdeuskoa"
  
  councillor_court_chaplain_sami_religion:0 "Noajde"
  councillor_court_chaplain_sami_religion_possessive:0 "Noajdes"
@@ -328,32 +328,32 @@ l_german:
  ## Mordvin ##
  # Credits to Макс for names 
 
- erzya_pagan:0 "Vedunava"
- erzya_pagan_adj:0 "Vedunisch"
- erzya_pagan_adherent:0 "Vedun'šabe"
- erzya_pagan_adherent_plural:0 "Vedun'šabe"
- erzya_pagan_old:0 "Altes Vedunava"
- erzya_pagan_old_adj:0 "Alt-Vedun"
- erzya_pagan_old_adherent:0 "Alt-Vedun'šabe"
- erzya_pagan_old_adherent_plural:0 "Alt-Vedun'šabe" 
- erzya_pagan_desc:0 "Die Alt-Vedun'šabe glauben an verschiedene Götter, wie den großen Heldengott Tyushtya. Der Glaube hat seinen Usprung beim mordwinischen Volk der Ersja. Die Ersja-Mordwinen glauben zwar an die selben Götter, wie die Mokscha-Mordwinen, haben aber andere Bräuche."
- moksha_pagan:0 "Shaetnij"
- moksha_pagan_adj:0 "Shaetnijisch"
- moksha_pagan_adherent:0 "Shaetnij'šaba"
- moksha_pagan_adherent_plural:0 "Shaetnij'šaba"
- moksha_pagan_old:0 "Altes Shaetnij"
- moksha_pagan_old_adj:0 "Alt-Shaetnijisch"
- moksha_pagan_old_adherent:0 "Alt-Shaetnij'šaba"
- moksha_pagan_old_adherent_plural:0 "Alt-Shaetnij'šaba" 
- moksha_pagan_desc:0 "Die Shaetnij'šaba glauben an verschiedene Götter, wie den großen Heldengott Tyushtya. Der Glaube hat seinen Usprung beim mordwinischen Volk der Mokscha. Die Mokscha-Mordwinen glauben zwar an die selben Götter, wie die Ersja-Mordwinen, haben aber andere Bräuche." 
+ erzya_pagan:0 "Sodamočineems"
+ erzya_pagan_adj:0 "Sodamočisch"
+ erzya_pagan_adherent:0 "Sodamočarsems"
+ erzya_pagan_adherent_plural:0 "Sodamočarsems"
+ erzya_pagan_old:0 "Altes Sodamočineems"
+ erzya_pagan_old_adj:0 "Alt-Sodamočisch"
+ erzya_pagan_old_adherent:0 "Alt-Sodamočarsems"
+ erzya_pagan_old_adherent_plural:0 "Alt-Sodamočarsems" 
+ erzya_pagan_desc:0 "Die Sodamočarsems sind spirituelle Heiden, die an verschiedene Götter und Geister glauben, welche die Natur verkörpern. Der Glaube hat seinen Usprung im mordwinischen Volk der Ersja. Die Ersja glauben an die selben Götter wie die Mokscha, haben aber andere Bräuche."
+ moksha_pagan:0 "Sodamanâems"
+ moksha_pagan_adj:0 "Sodamaisch"
+ moksha_pagan_adherent:0 "Sodamarsens"
+ moksha_pagan_adherent_plural:0 "Sodamarsens"
+ moksha_pagan_old:0 "Altes Sodamanâems"
+ moksha_pagan_old_adj:0 "Alt-Sodamaisch"
+ moksha_pagan_old_adherent:0 "Alt-Sodamarsens"
+ moksha_pagan_old_adherent_plural:0 "Alt-Sodamarsens" 
+ moksha_pagan_desc:0 "Die Sodamarsens sind spirituelle Heiden, die an verschiedene Götter und Geister glauben, die die Natur verkörpern. Der Glaube hat seinen Usprung im mordwinischen Volk der Mokscha. Die Mokscha glauben an die selben Götter wie die Mokscha, haben aber andere Bräuche." 
  
  mordvin_religious_symbol:0 "Mordwinisch"
  
- mordvin_religion_desc:0 "Die ersjanischen und mokschanischen Völker, die zusammen die Mordwinen bilden, gehören zur finno-ugrischen Volksgruppe des Wolga-Flussbeckens. Die wolga-finnischen, finno-ugrischen und ugro-permischen Völker praktizieren alle eine ähnliche Form von Religion, die auch als Schamanismus bezeichnet wird. Sie alle beten ähnliche Götter an, jedoch ist jedes Volk in seinen Bräuchen und Ritualen einzigartig." 
- mordvin_religion:0 "Šamantum"
- mordvin_religion_adj:0 "Šamantisch"
- mordvin_religion_adherent:0 "Šaman'šabe"
- mordvin_religion_adherent_plural:0 "Šaman'šabe"
+ mordvin_religion_desc:0 "Die Stämme der Ersja und Mokscha, die zum Volk der Mordwinen gehören, sind Teil der finno-ugrischen Volksgruppe des Wolga-Flussbeckens. Die wolga-finnischen, finno-ugrischen und ugro-permischen Volksgruppen praktizieren eine spiritualistische Form des Glaubens, die von anderen als schamanistisches Heidentum bezeichnet wird. Sie alle beten zu ähnlichen Göttern, jedoch ist jedes Volk in seinen Bräuchen und Ritualen einzigartig." 
+ mordvin_religion:0 "Šuftanâems"
+ mordvin_religion_adj:0 "Šuftaisch"
+ mordvin_religion_adherent:0 "Šuftasens"
+ mordvin_religion_adherent_plural:0 "Šuftasens"
  
  mordvin_pagan_high_god_name:0 "Viarde Skai"
  mordvin_pagan_high_god_name_possessive:0 "Viarde Skais"
@@ -420,9 +420,9 @@ l_german:
  erzya_pagan_devil_name_possessive:0 "Idemevs'"
  erzya_pagan_death_deity_name:0 "Mastorpaz"
  erzya_pagan_death_deity_name_possessive:0 "Mastorpaz'"
- erzya_pagan_religious_symbol:0 "shtatol"
- erzya_pagan_religious_text:0 "great epics"
- erzya_pagan_afterlife:0 "The underworld"
+ erzya_pagan_religious_symbol:0 "Šhtatol"
+ erzya_pagan_religious_text:0 "Große Epen"
+ erzya_pagan_afterlife:0 "Unterwelt"
  erzya_pagan_good_god_purginepaz:0 "Purginepaz" # Thunder god
  erzya_pagan_good_god_yondolpaz:0 "Yondolpaz" # Lightning god
  erzya_pagan_good_god_varmava:0 "Varmava" # Wind spirit
@@ -456,17 +456,17 @@ l_german:
  erzya_pagan_house_of_worship_2:0 "$erzya_pagan_house_of_worship$" # Optional translation alt
  erzya_pagan_house_of_worship_3:0 "$erzya_pagan_house_of_worship$" # Optional translation alt
  erzya_pagan_house_of_worship_plural:0 "Keremets" # Sacred Grove
- erzya_priest_male:0 "Ozatya" # "Praying Father"
- erzya_priest_male_plural:0 "Ozatya"
- erzya_priest_female:0 "Ozyiy"
- erzya_priest_female_plural:0 "Ozyiy"
- erzya_priest_neuter:0 "Ozyiy" # Gender neutral form of Ozatya
- erzya_priest_neuter_plural:0 "Ozyiy"
+ erzya_priest_male:0 "Sodamo"
+ erzya_priest_male_plural:0 "Sodamot"
+ erzya_priest_female:0 "Sodamo"
+ erzya_priest_female_plural:0 "Sodamot"
+ erzya_priest_neuter:0 "Sodamo"
+ erzya_priest_neuter_plural:0 "Sodamot"
 
- moksha_pagan_high_god_name:0 "Shkay"
- moksha_pagan_high_god_name_possessive:0 "Shkays"
- moksha_pagan_high_god_name_alternate:0 "Viarde Skai"
- moksha_pagan_high_god_name_alternate_possessive:0 "Viarde Skais"
+ moksha_pagan_high_god_name:0 "Viarde Skai"
+ moksha_pagan_high_god_name_possessive:0 "Viarde Skais"
+ moksha_pagan_high_god_name_alternate:0 "Vater Himmel"
+ moksha_pagan_high_god_name_alternate_possessive:0 "Vater Himmel"
  moksha_pagan_devil_name:0 "Idemyavoz"
  moksha_pagan_devil_name_possessive:0 "Idemyavoz'"
  moksha_pagan_death_deity_name:0 "Mastorava"
@@ -505,13 +505,13 @@ l_german:
  moksha_pagan_house_of_worship:0 "Repeshtye" # Sacred Grove
  moksha_pagan_house_of_worship_2:0 "$moksha_pagan_house_of_worship$" # Optional translation alt
  moksha_pagan_house_of_worship_3:0 "$moksha_pagan_house_of_worship$" # Optional translation alt
- moksha_pagan_house_of_worship_plural:0 "repeshtyes" # Sacred Grove
- moksha_priest_male:0 "Inyatya" # "Priest"
- moksha_priest_male_plural:0 "Inyatyas"
- moksha_priest_female:0 "Inyatya"
- moksha_priest_female_plural:0 "Inyatyas"
- moksha_priest_neuter:0 "Inyatya"
- moksha_priest_neuter_plural:0 "Inyatyas"
+ moksha_pagan_house_of_worship_plural:0 "Repeshtyen" # Sacred Grove
+ moksha_priest_male:0 "Sodams"
+ moksha_priest_male_plural:0 "Sodamst"
+ moksha_priest_female:0 "Sodams"
+ moksha_priest_female_plural:0 "Sodamst"
+ moksha_priest_neuter:0 "Sodams"
+ moksha_priest_neuter_plural:0 "Sodamst"
 
  # Other Erzya deities mentioned by Макс that couldn't be pidgeonholed somewhere:
  # Wind spirit - Varmava
@@ -519,25 +519,25 @@ l_german:
 
 
  
- ## Komi ##
+ ## Komi ## (Syriänen)
  
  komi_pagan:0 "Važesköm"
  komi_pagan_adj:0 "Važeskömisch"
- komi_pagan_adherent:0 "Važesköma"
- komi_pagan_adherent_plural:0 "Važeskömset"
+ komi_pagan_adherent:0 "Važeskömovny"
+ komi_pagan_adherent_plural:0 "Važeskömovny"
 
  komi_pagan_old:0 "Altes Važesköm"
  komi_pagan_old_adj:0 "Alt-Važeskömisch"
- komi_pagan_old_adherent:0 "Alt-Važesköma"
- komi_pagan_old_adherent_plural:0 "Alt-Važeskömset"
+ komi_pagan_old_adherent:0 "Alt-Važeskömovny"
+ komi_pagan_old_adherent_plural:0 "Alt-Važeskömovny"
 
- komi_pagan_desc:0 "Die Komi glauben an verschiedene Geister, sowohl bösartige als auch wohlwollende. Ihr oberster Schöpfergott ist En, der die Gestalt eines Schwans hat."
+ komi_pagan_desc:0 "Die Važeskömovny sind spirituelle Heiden, die an verschiedene Götter und Geister glauben, die die Natur verkörpern. Der Glaube hat seinen Usprung im permischen Volk der Syrjänen. Die Syrjänen glauben an die selben Götter wie die Udmurten, haben aber andere Bräuche."
  
- permic_religion_desc:0 "Die Permjaken glauben an verschiedene Geister, sowohl bösartige als auch wohlwollende. Ihr oberster Schöpfergott ist En, der die Gestalt eines Schwans hat."
- permic_religion:0 "Komi-Permjak"
- permic_religion_adj:0 "Komi-Permjakisch"
- permic_religion_adherent:0 "Komi-Permjake"
- permic_religion_adherent_plural:0 "Komi-Permjaken"
+ permic_religion_desc:0 "Die Stämme der Udmurten und Syrjänen, die zum Volk der Permjaken gehören, sind Teil der ugro-permischen Volksgruppe des Kama-Flussbeckens. Die wolga-finnischen, finno-ugrischen und ugro-permischen Volksgruppen praktizieren eine spiritualistische Form des Glaubens, die von anderen als schamanistisches Heidentum bezeichnet wird. Sie alle beten zu ähnlichen Göttern, jedoch ist jedes Volk in seinen Bräuchen und Ritualen einzigartig."
+ permic_religion:0 "Âgišna"
+ permic_religion_adj:0 "Âgišnaisch"
+ permic_religion_adherent:0 "Âgišnaovny"
+ permic_religion_adherent_plural:0 "Âgišnaovny"
  
  komi:0 "Komi"
  
@@ -758,7 +758,7 @@ l_german:
  nenets_pagan_water_god_name:0 "Num"
  nenets_pagan_water_god_name_possessive:0 "Num's"
  
- ## Udmurt ##
+ ## Udmurt ## (part of Permic religion)
  
  udmurt_religion:0 "Udmurt"
  udmurt_religion_desc:0 "Inmar, the god of the heavens is one of the Udmurt main deities." 
