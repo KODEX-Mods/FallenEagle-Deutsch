@@ -1,42 +1,42 @@
 ﻿l_german:
 
  #############################################
-#Default Imperial tiers 
- baron_imperial_male:0 "Magnate"
- baron_imperial_female:0 "Magnate"
- barony_imperial:0 "District"
+#Default Imperial tiers
+ baron_imperial_male:0 "Magnatus"
+ baron_imperial_female:0 "Magnata"
+ barony_imperial:0 "Pagus"
  count_imperial_male:0 "Comes"
- count_imperial_female:0 "Comes"
- county_imperial:0 "Region"
- duke_imperial_male:0 "Pro-consul"
- duke_imperial_female:0 "Pro-consul"
- duchy_imperial:0 "Province"
+ count_imperial_female:0 "Comitissa"
+ county_imperial:0 "Regio"
+ duke_imperial_male:0 "Prokonsul"
+ duke_imperial_female:0 "Prokonsul"
+ duchy_imperial:0 "Provincia"
  duke_imperial_independent:0 "Dux"
  duke_imperial_independent_female:0 "Ducissa"
  duchy_imperial_independent:0 "Ducatus"
  king_imperial_male:0 "Vicarius"
  king_imperial_female:0 "Vicaria"
- kingdom_imperial:0 "Diocese"
+ kingdom_imperial:0 "Dioecesis"
  king_imperial_independent_male:0 "Rex"
  king_imperial_independent_female:0 "Regina"
- kingdom_imperial_independent:0 "Kingdom"
+ kingdom_imperial_independent:0 "Regnum"
  emperor_imperial_male:0 "Imperator"
  emperor_imperial_female:0 "Imperatrix"
- empire_imperial:0 "Empire"
+ empire_imperial:0 "Imperium"
  legion_commander:0 "Legatus"
 
 ### Roman ###
-# Feudal 
+# Feudal
  #Already in vanilla
  #baron_feudal_male_roman:1 "Baro"
  #baron_feudal_female_roman:1 "Baronissa"
  #barony_feudal_roman:1 "Castrum"
  #count_feudal_male_roman:0 "Comes"
  #count_feudal_female_roman:1 "Comitissa"
- #county_feudal_roman:0 "County"
+ #county_feudal_roman:0 "Grafschaft"
  #duke_feudal_male_roman:1 "Dux"
  #duke_feudal_female_roman:1 "Ducissa"
- #duchy_feudal_roman:0 "Duchy"
+ #duchy_feudal_roman:0 "Herzogtum"
  #king_feudal_male_roman:0 "Rex"
  #king_feudal_female_roman:0 "Regina"
  #kingdom_feudal_roman:0 "Regnum"
@@ -47,39 +47,39 @@
 # Republic
  #baron_republic_male_roman:0 "Magister"
  #baron_republic_female_roman:0 "Magistra"
- #count_republic_male_roman:0 "Praefect"
- #count_republic_female_roman:0 "Praefect"
- #duke_republic_male_roman:0 "Tribune"
- #duke_republic_female_roman:0 "Tribune"
- #duchy_republic_roman:0 "Duchy"
- #king_republic_male_roman:0 "Consul"
- #king_republic_female_roman:0 "Consul"
- #kingdom_republic_roman:0 "League"
+ #count_republic_male_roman:0 "Präfekt"
+ #count_republic_female_roman:0 "Präfektin"
+ #duke_republic_male_roman:0 "Tribun"
+ #duke_republic_female_roman:0 "Tribunin"
+ #duchy_republic_roman:0 "Herzogtum"
+ #king_republic_male_roman:0 "Konsul"
+ #king_republic_female_roman:0 "Konsulin"
+ #kingdom_republic_roman:0 "Liga"
  #emperor_republic_male_roman:0 "Princeps"
- #emperor_republic_female_roman:0 "Princess"
- #empire_republic_roman:0 "Grand Republic"
+ #emperor_republic_female_roman:0 "Prinzessin"
+ #empire_republic_roman:0 "Großrepublik"
 
-# Viceroyalty 
- #baron_viceroyalty_male_roman:0 "Governor"
- #baron_viceroyalty_female_roman:0 "Governess"
- #barony_viceroyalty_roman:0 "Province"
- #count_viceroyalty_male_roman:0 "Governor"
- #count_viceroyalty_female_roman:0 "Governess"
- #county_viceroyalty_roman:0 "Province"
- #duke_viceroyalty_male_roman:0 "Governor"
- #duke_viceroyalty_female_roman:0 "Governess"
- #duchy_viceroyalty_roman:0 "Province"
+# Viceroyalty
+ #baron_viceroyalty_male_roman:0 "Statthalter"
+ #baron_viceroyalty_female_roman:0 "Statthalterin"
+ #barony_viceroyalty_roman:0 "Provinz"
+ #count_viceroyalty_male_roman:0 "Statthalter"
+ #count_viceroyalty_female_roman:0 "Statthalterin"
+ #county_viceroyalty_roman:0 "Provinz"
+ #duke_viceroyalty_male_roman:0 "Statthalter"
+ #duke_viceroyalty_female_roman:0 "Statthalterin"
+ #duchy_viceroyalty_roman:0 "Provinz"
  #king_viceroyalty_male_roman:1 "Vicar"
  #king_viceroyalty_female_roman:1 "Vicarissa"
- #kingdom_viceroyalty_roman:1 "Diocese"
+ #kingdom_viceroyalty_roman:1 "Diözese"
  #emperor_viceroyalty_male_roman:0 "Princeps"
  #emperor_viceroyalty_female_roman:1 "Principissa"
- #empire_viceroyalty_roman:0 "Principate"
+ #empire_viceroyalty_roman:0 "Prinzipat"
 
- arrasool:0 "[CHARACTER.Custom('ArRasool')]"
- islam_arrasool:0 "Ar-Rasool"
- islam_caliph:0 "Caliph"
- 
+ arrasool:0 "[CHARACTER.Custom('Rasūl')]"
+ islam_arrasool:0 "Rasūl"
+ islam_caliph:0 "Kalif"
+
  #### Celtic Flavour
  celtic_king:0 "Rix"
  celtic_queen:0 "Rigani"
@@ -87,7 +87,7 @@
  briton_duchess:0 "Towissoges"
  briton_king:0 "Brygentin"
  briton_queen:0 "Brygentines"
- bard_chaplain:0 "Bard"
+ bard_chaplain:0 "Barde"
  bardess_chaplain:0 "Bardess"
 
  #### Germanic Flavour
@@ -102,19 +102,19 @@
  east_german_queen:0 "Kwens"
 
  # Han
- han_male_count:0 "Marquis"
- han_female_count:0 "Marchioness"
- han_count:0 "Marquisate"
- duchy_han:0 "Province"
- county_han:0 "Commandery"
- barony_han:0 "District"
+ han_male_count:0 "Hóu"
+ han_female_count:0 "Hóu"
+ han_count:0 "Xiàn"
+ duchy_han:0 "Shěng"
+ county_han:0 "Hóushè"
+ barony_han:0 "Guǎnqū"
 
- duke_feudal_voivode:0 "Voivode"
- duchy_feudal_voivode:0 "Voivodeship"
+ duke_feudal_voivode:0 "Woiwode"
+ duchy_feudal_voivode:0 "Woiwodschaft"
  # Because there isn't a way to make flavorization apply only to vassals for some reason
- duke_feudal_male_voivode_independent:0 "Duke"
- duke_feudal_female_voivode_independent:0 "Duchess"
- duchy_feudal_voivode_independent:0 "Duchy"
+ duke_feudal_male_voivode_independent:0 "Herzog"
+ duke_feudal_female_voivode_independent:0 "Herzogin"
+ duchy_feudal_voivode_independent:0 "Herzogtum"
 
  pontifex:0 "Pontifex Maximus"
 
@@ -137,8 +137,8 @@
 
  sarkibraterbetti:0 "Sar Kibrāt Erbetti"
 
- pirate_king:0 "Pirate King"
- pirate_queen:0 "Pirate Queen"
+ pirate_king:0 "Piratenkönig"
+ pirate_queen:0 "Piratenkönigin"
 
  # Berbers
  north_berber_male_baron:0 "Amghar"
@@ -151,4 +151,3 @@
  north_berber_female_king:0 "Tagellidt"
  north_berber_male_emperor:0 "Amenkad"
  north_berber_female_emperor:0 "Tamenkadt"
-
