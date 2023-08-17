@@ -180,12 +180,13 @@
  #Bri'ish maa
  innovation_cymbrogi:0 "Cymbrogi"
  innovation_cymbrogi_desc:0 "Durch gute Beziehungen zu unseren Untertanen und die Bereitstellung der entsprechenden Ausstattung können wir sie zu den besten und loyalsten Soldaten machen."
- innovation_gaelic_warbands:0 "Gälische Kriegerschar"
+ innovation_gaelic_warbands:0 "Gälische Kriegsschar"
  innovation_gaelic_warbands_desc:0 "Die feuchten Sümpfe von Éiru waren den Gälen schon immer vertraut. Ihre einheimischen Krieger sind daher erfahrene Kämpfer, die in ihrem heimischen Terrain gut eingesetzt werden können."
  innovation_pictish_warbands:0 "Piktische Kriegsschar"
-Das raue Terrain von Piktland hat die Pikten zu den schärfsten Kriegern des Landes gemacht. Eine gebirgige Umgebung wird immer zu ihrem Vorteil sein! innovation_brythonic_warbands:0 "Britonische Kriegsschar"
+ innovation_pictish_warbands_desc:0 "Das raue Terrain von Piktland hat die Pikten zu den schärfsten Kriegern des Landes gemacht. Eine gebirgige Umgebung wird immer zu ihrem Vorteil sein!"
+ innovation_brythonic_warbands:0 "Britonische Kriegsschar"
  innovation_brythonic_warbands_desc:0 "Obwohl die britannischen Stämme ihre alten Traditionen als Streitwagenfahrer verloren haben, leben die alten Plänkler noch immer in den Wäldern von Britannia"
- innovation_cantabrian_warbands:0 "Kantabrische Kriegerschar"
+ innovation_cantabrian_warbands:0 "Kantabrische Kriegsschar"
  innovation_cantabrian_warbands_desc:0 "Die keltischen Stämme des nördlichen Hispaniens sind weitgehend unromanisiert geblieben und haben ihre alten militärischen Traditionen beibehalten. Sie gehören zu den wildesten Stämmen der römischen Welt"
 
  ### Iron Age Innos
@@ -199,7 +200,7 @@ Das raue Terrain von Piktland hat die Pikten zu den schärfsten Kriegern des Lan
  innovation_tanning_tables_desc:0 "Indem wir hochwertige Lederwerkzeuge für unsere Krieger herstellen, können wir sicherstellen, dass ihre Ausrüstung auf dem neuesten Stand ist."
 
 innovation_raiding_vessels:0 "Räuberbanden"
-innovation_raiding_vessels_desc:0 "Die Stämme Albions sind durstig nach Beute. Während es in ihren eigenen Ländern reichlich Schätze gibt, warten in der Reichweite einer Räuberbande noch bessere Möglichkeiten"
+innovation_raiding_vessels_desc:0 "Die Stämme Albions sind durstig nach Beute. Obwohl ihre eigenen Ländereien noch reich an Schätze sind, wartet Besseres in Reichweite einer Räuberbande."
 
 innovation_african_horse_archers:0 "Afrikanische Reiterschützen"
 innovation_african_horse_archers_desc:0 "Berittene Bogenschützen bieten eine wirkungsvolle Mischung aus Mobilität, Reichweite und Schadenswirkung. Die Reiterschützen aus den Steppen mögen zwar berühmter sein, aber jene aus West- und Zentralafrika sind nicht weniger tödlich."
