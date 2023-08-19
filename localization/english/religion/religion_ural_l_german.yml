@@ -699,7 +699,7 @@ l_german:
  holy_site_glazov_effect_name:0 "Durch [holy_site|E] #weak ($holy_site_glazov_name$)#!"
  
 
- ## Samoyedic / Nenets ##
+ ## Samoyedic / Nenets ## (existiert nicht?)
  
  samoyedic_group:0 "Samoyedic"
  nenets:0 "Nenets"
@@ -758,22 +758,22 @@ l_german:
  nenets_pagan_water_god_name:0 "Num"
  nenets_pagan_water_god_name_possessive:0 "Num's"
  
- ## Udmurt ## (part of Permic religion)
+ ## Udmurt ## (Wotjaken; Teil von Permischer Religion)
  
- udmurt_religion:0 "Udmurt"
- udmurt_religion_desc:0 "Inmar, the god of the heavens is one of the Udmurt main deities." 
- udmurt_religion_adj:0 "Udmurt"
- udmurt_religion_adherent:0 "Udmurt"
- udmurt_religion_adherent_plural:0 "Udmurts"
- udmurt_pagan:0 "Inmarism"
- udmurt_pagan_adj:0 "Inmarist"
- udmurt_pagan_adherent:0 "Inmarist"
- udmurt_pagan_adherent_plural:0 "Inmarists"
- udmurt_pagan_old:0 "Old Inmarist"
- udmurt_pagan_old_adj:0 "Old Inmarist"
- udmurt_pagan_old_adherent:0 "Old Inmarist"
- udmurt_pagan_old_adherent_plural:0 "Old Inmarists"
- udmurt_pagan_desc:0 "Inmar, the god of the heavens is one of the Udmurt main deities."
+ udmurt_religion:0 "Udmurt" # existiert nicht
+ udmurt_religion_desc:0 "Inmar, the god of the heavens is one of the Udmurt main deities." # existiert nicht
+ udmurt_religion_adj:0 "Udmurt" # existiert nicht
+ udmurt_religion_adherent:0 "Udmurt" # existiert nicht
+ udmurt_religion_adherent_plural:0 "Udmurts" # existiert nicht
+ udmurt_pagan:0 "Ujvötsin"
+ udmurt_pagan_adj:0 "Ujvötisch"
+ udmurt_pagan_adherent:0 "Ujvötpi"
+ udmurt_pagan_adherent_plural:0 "Ujvötpi"
+ udmurt_pagan_old:0 "Altes Ujvötsin"
+ udmurt_pagan_old_adj:0 "Alt-Ujvötisch"
+ udmurt_pagan_old_adherent:0 "Alt-Ujvötpi"
+ udmurt_pagan_old_adherent_plural:0 "Alt-Ujvötpi"
+ udmurt_pagan_desc:0 "Die Ujvötpi sind spirituelle Heiden, die an verschiedene Götter und Geister glauben, die die Natur verkörpern. Der Glaube hat seinen Usprung im permischen Volk der Udmurten. Die Udmurte glauben an die selben Götter wie die Syrjänen, haben aber andere Bräuche."
  
  udmurt_pagan_good_god_kildisin:0 "Kildisin"
  udmurt_pagan_good_god_kuaz:0 "Kuaz"
@@ -781,17 +781,17 @@ l_german:
  udmurt_pagan_good_god_kvasja:0 "Kvasja"
  
  udmurt_pagan_high_god_name:0 "Inmar"
- udmurt_pagan_high_god_name_possessive:0 "Inmar's"
+ udmurt_pagan_high_god_name_possessive:0 "Inmars"
  udmurt_pagan_high_god_name_alternate:0 "Kõldõsin-Inmar"
- udmurt_pagan_high_god_name_alternate_possessive:0 "Kõldõsin-Inmar's"
- udmurt_pagan_devil_name:0 "Sajtan"
- udmurt_pagan_devil_name_possessive:0 "Sajtan's"
- udmurt_pagan_evil_god_sajtan:0 "Sajtan"
- udmurt_pagan_death_deity_name:0 "Sajtan"
- udmurt_pagan_death_deity_name_possessive:0 "Sajtan's"
- udmurt_pagan_religious_symbol:0 "Udmurt"
- udmurt_pagan_religious_text:0 "great epics"
- udmurt_pagan_afterlife:0 "The Underworld"
+ udmurt_pagan_high_god_name_alternate_possessive:0 "Kõldõsin-Inmars"
+ udmurt_pagan_devil_name:0 "Kul"
+ udmurt_pagan_devil_name_possessive:0 "Kuls"
+ udmurt_pagan_evil_god_sajtan:0 "Kul"
+ udmurt_pagan_death_deity_name:0 "Kul"
+ udmurt_pagan_death_deity_name_possessive:0 "Kuls"
+ udmurt_pagan_religious_symbol:0 "Udmurtisch"
+ udmurt_pagan_religious_text:0 "Große Epen"
+ udmurt_pagan_afterlife:0 "Unterwelt"
 
  udmurt_pagan_creator_god_name:0 "$udmurt_pagan_high_god_name$"
  udmurt_pagan_creator_god_name_possessive:0 "$udmurt_pagan_high_god_name_possessive$"
@@ -800,21 +800,21 @@ l_german:
  udmurt_pagan_fertility_god_name:0 "Kyldys"
  udmurt_pagan_fertility_god_name_possessive:0 "Kyldys'"
  udmurt_pagan_household_god_name:0 "Gidquamuret"
- udmurt_pagan_household_god_name_possessive:0 "Gidquamuret's"
+ udmurt_pagan_household_god_name_possessive:0 "Gidquamurets"
  udmurt_pagan_fate_god_name:0 "Kuaz"
- udmurt_pagan_fate_god_name_possessive:0 "Kuaz's"
+ udmurt_pagan_fate_god_name_possessive:0 "Kuaz'"
  udmurt_pagan_wealth_god_name:0 "Kyldys"
  udmurt_pagan_wealth_god_name_possessive:0 "Kyldys'"
  udmurt_pagan_knowledge_god_name:0 "Inmar"
- udmurt_pagan_knowledge_god_name_possessive:0 "Inmar's"
- udmurt_pagan_trickster_god_name:0 "Sajtan"
- udmurt_pagan_trickster_god_name_possessive:0 "Sajtan's"
+ udmurt_pagan_knowledge_god_name_possessive:0 "Inmars"
+ udmurt_pagan_trickster_god_name:0 "Kul"
+ udmurt_pagan_trickster_god_name_possessive:0 "Kuls"
  udmurt_pagan_war_god_name:0 "Inmar"
- udmurt_pagan_war_god_name_possessive:0 "Inmar's"
+ udmurt_pagan_war_god_name_possessive:0 "Inmars"
  udmurt_pagan_night_god_name:0 "Inmar"
- udmurt_pagan_night_god_name_possessive:0 "Inmar's"
+ udmurt_pagan_night_god_name_possessive:0 "Inmars"
  udmurt_pagan_water_god_name:0 "Vumurt"
- udmurt_pagan_water_god_name_possessive:0 "Vumurt's"
+ udmurt_pagan_water_god_name_possessive:0 "Vumurts"
  
  #udmurt:0 "Udmurt"
  #udmurt_collective_noun:0 "Udmurts"
