@@ -13,7 +13,7 @@
  doctrine_missionary_not_allowed_name:0 "Kulturell"
  doctrine_missionary_not_allowed_desc:0 "Missionare werden in unserem [Concept('faith', 'Glauben')|E] als unnütz gesehen. Das rücksichtslose Verbreiten unserer Ideale und Vorstelleungen unter Außenseitern führt nur zu Ketzereien und Spaltungen innerhalb unserer Gemeinschaft."
  special_faith_has_hellenic_heritage_name:0 "Hellenische Herkunft"
- doctrine_parameter_hostility_override_special_faith_has_hellenic_heritage:0 "Betrachtet andere [faiths|E] die eine #V $special_faith_has_hellenic_heritage_name$#! haben als [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_special_faith_has_hellenic_heritage:0 "Betrachtet [faiths|E] mit #V Hellenischer Herkunft#! und wird wiederum von Glauben mit #V Hellenischer Herkunft#! als [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] betrachtet"
  special_faith_has_hellenic_heritage_desc:0 "Dieser Glaube ist aufgrund seiner Herkunft stark vom hellenischen Pantheon beeinflusst."
  COURT_CHAPLAIN_CONVERSION_SLOWER_SPREAD_TO_OTHER_HERITAGES:0 "Unterschiedliche [heritage|E]"
 
