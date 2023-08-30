@@ -1,25 +1,25 @@
 ﻿l_german:
 
- dravidian_religion:0 "Dravidian"
- dravidian_religion_adj:0 "Dravidian"
+ dravidian_religion:0 "Ṣāmaṉicam"
+ dravidian_religion_adj:0 "Ṣāmaṉicamisch"
 
  #Gond faith
  koyapunem:0 "Koyapunem"
- koyapunem_adj:0 "Koyapunem"
+ koyapunem_adj:0 "Koyapunemisch"
  koyapunem_adherent:0 "Koya"
  koyapunem_adherent_plural:0 "Koyas"
- koyapunem_desc:0 "Each village worships their own clan deity, but the supreme deities of all Koyas are the great guardian Aki Pen and his consort Anwal, our mother. "
+ koyapunem_desc:0 "Jedes Dorf verehrt seine eigene Stammesgottheit, aber die obersten Gottheiten aller Koyas sind der große Wächter Aki Pen und seine Gemahlin Anwal, unsere Mutter."
 
  #Khond faith
  dharni:0 "Dharni"
- dharni_adj:0 "Dharni"
+ dharni_adj:0 "Dharnisch"
  dharni_adherent:0 "Dharni"
  dharni_adherent_plural:0 "Dharni"
- dharni_desc:0 "The highest god in the Earth Mother, who is found in all parts of nature. Devotion to her is shown through the planting of seeds and the sacrificing of hunted animals and morally pure humans."
+ dharni_desc:0 "Die höchste Gottheit ist die Erdmutter, die in allen Teilen der Natur zu finden ist. Die Verehrung für sie zeigt sich in der Aussaat von Samen und in der Opferung von erlegten Tieren und moralisch reinen Menschen."
 
  #Maler faith
  gosain:0 "Gosain"
- gosain_adj:0 "Gosain"
+ gosain_adj:0 "Gosainisch"
  gosain_adherent:0 "Gosain"
  gosain_adherent_plural:0 "Gosain"
- gosain_desc:0 "Spirits called Gosain are present in everything, and they must be worshipped in their various forms. Alchis are evil spirities that seek to corrupt us who need to be avoided."
+ gosain_desc:0 "Geister, die Gosain genannt werden, sind in allem vorhanden, und sie müssen in ihren verschiedenen Formen verehrt werden. Alchis sind böse Geister, die versuchen, uns zu verderben, und die vermieden werden müssen."
