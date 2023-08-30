@@ -32,7 +32,7 @@
  tfe_brahmanism_saurite_doctrine_name:0 "Sauras"
  tfe_brahmanism_saurite_doctrine_desc:0 "Die Sauras betrachten Surya als höchste Göttin. Surya verkörpert die Sonne und wird oft auf ihrem Sonnenwagen dargestellt, der von sieben Pferden, die für die sieben Tage der Woche stehen, gezogen wird."
  tfe_brahmanism_yaksha_naga_doctrine_name:0 "Nagas"
- tfe_brahmanism_yaksha_naga_doctrine_desc:0 "Die Nagas betrachten Naga als höchste Gottheit. Naga ist die Schlangenöttin und hat viele Namen, so beispielsweise Manasa im Norden Indiens oder Klu im Tibet."
+ tfe_brahmanism_yaksha_naga_doctrine_desc:0 "Die Nagas betrachten Nagas als höchste Gottheit. Nagas sind die Schlangengötter niederen Standes und sind in ganz Südasien unter verschiedenen Namen bekannt."
  doctrine_parameter_hostility_override_tfe_brahmanism_vaishnavite_doctrine:1 "Betrachtet [GetFaithDoctrine('tfe_brahmanism_vaishnavite_doctrine').GetBaseName] [faiths|E] als [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
  doctrine_parameter_hostility_override_tfe_brahmanism_shaivite_doctrine:1 "Betrachtet [GetFaithDoctrine('tfe_brahmanism_shaivite_doctrine').GetBaseName] [faiths|E] als [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
  doctrine_parameter_hostility_override_tfe_brahmanism_smartist_doctrine:1 "Betrachtet [GetFaithDoctrine('tfe_brahmanism_smartist_doctrine').GetBaseName] [faiths|E] als [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
