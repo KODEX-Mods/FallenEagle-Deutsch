@@ -1,21 +1,21 @@
 ﻿l_german:
  # Sol Invictus
- sol_invictus:0 "Sol Invictus"
- sol_invictus_adj:0 "Sol"
+ sol_invictus:0 "Cultus Solis Invictus"
+ sol_invictus_adj:0 "Solisch"
  sol_invictus_adherent:0 "Solist"
- sol_invictus_adherent_plural:0 "Solists"
- sol_invictus_desc:1 "Sol was an early Roman sun deity that fell into obscurity during the First Century CE, but later brought back into prominence during the reign of Emperor Aurelian."
+ sol_invictus_adherent_plural:0 "Solisten"
+ sol_invictus_desc:1 "Sol, auch bekannt als Sol Invictus und später als Sol Indiges, war der Sonnengott der antiken römischen Mythologie. Auch wenn dieser Helios aus der griechischen Mythologie ähnelt, ist Sol einheimischen Ursprungs. Der Sonnenkult bestand bereits zur republikanischen Zeit und geht angeblich auf die Zeit Romulus zurück, in welcher er vom Sabinerkönig Titus Tatius eingeführt worden sein soll."
 
  roman_pagan:0 "Cultus Deorum Romanorum"
- roman_pagan_adj:0 "Religio Romana"
- roman_pagan_adherent:0 "Religio Romana"
- roman_pagan_adherent_plural:0 "Greco-Latins"
- roman_pagan_desc:0 "The Cultus Deorum Romanorum refers to the system of beliefs and traditions upheld by the Romans, deriving influence from their historical neighbors in Magna Graecia and Etruria in the days of the Roman Republic."
+ roman_pagan_adj:0 "Religarisch"
+ roman_pagan_adherent:0 "Religarist"
+ roman_pagan_adherent_plural:0 "Religaristen"
+ roman_pagan_desc:0 "Der Cultus Deorum Romanorum, oft auch als Religio Romana bezeichnet, ist Bestandteil der römischen Identität (Romanitas) ist. Kern der Romanitas ist die Gesellschaft, die jeden, der die selben Werte und Vorstellungen teilt, wilkommen heißt Dementsprechend beschränkt sich dieser Kult nicht nur auf einen Kultur- oder Sprachraum. Innerhalb der Religio Romana gibt es zahllose Götter, von denen manche keine Gestalt haben und andere keine zugeordnete Funktion."
 
- sol_invictus_old:0 "Old Sol Invictus"
- sol_invictus_old_adj:0 "Old Sol"
- sol_invictus_old_adherent:0 "Old Solist"
- sol_invictus_old_adherent_plural:0 "Old Solists"
+ sol_invictus_old:0 "Cultus Solis Indiges"
+ sol_invictus_old_adj:0 "Ursolisch"
+ sol_invictus_old_adherent:0 "Ursolist"
+ sol_invictus_old_adherent_plural:0 "Ursolisten"
  
  # Arabic Paganism
 
